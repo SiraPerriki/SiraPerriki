@@ -1,4 +1,4 @@
-# Hola, soy Isa, SiraPerriki en las redes👋
+# Hola, soy Isa, SiraPerriki en las redes 👋
 
 Desarrolladora frontend con base fullstack y ojo de diseñadora. Disfruto construyendo cosas en la intersección entre código, color y narrativa.
 
@@ -17,7 +17,7 @@ Mi camino ha sido en parte autodidacta y a veces a trompicones, como el de mucha
 
 ## 🌱 Proyectos propios
 
-Tengo una querencia especial por construir herramientas que no existen porque las necesito yo y aunque todos somos únicos pero no tanto, espero que haya más personas a las que como a mí, le sirvan ❤️
+Tengo una querencia especial por construir herramientas que no existen porque las necesito yo — y aunque todos somos únicos pero no tanto, espero que haya más personas a las que, como a mí, les sirvan ❤️
 
 - **[Labbelia](https://siraperriki.github.io/labbelia/)** — Generador de etiquetas para journaling. HTML + CSS + JS puro, desplegado en GitHub Pages.
 - **Nubbita** — Herramienta de paletas de color para ilustradoras, con simulación de daltonismo y análisis de contraste.
@@ -28,6 +28,17 @@ Tengo una querencia especial por construir herramientas que no existen porque la
 ## 📌 Proyecto destacado
 
 **[Agregador de Concursos Literarios](https://github.com/SiraPerriki/PROYECTO)** — Aplicación fullstack para centralizar convocatorias literarias. Vue + Node.js + MySQL. Autenticación con JWT, roles, validaciones con Hapi-Joi, consultas SQL multitabla. Proyecto final de bootcamp (2020).
+
+---
+
+## 🎨 Experimentos en CodePen
+
+Dibujo vectorial artesanal y pequeños experimentos con HTML, CSS y JS puro.
+
+- **[Retrato CSS](https://codepen.io/isa-pulsatilla/pen/poybeMa)** — cara humana detallada construida con divs y CSS puro, sin SVG ni imágenes
+- **[Gatito en la ventana](https://codepen.io/isa-pulsatilla/pen/RwaKXNZ)** — ilustración interactiva con toggle día/noche usando variables CSS y JS
+- **[Conversor de divisas](https://codepen.io/isa-pulsatilla/pen/bGperVN)** — fetch a API real de tipos de cambio, UI reactiva con event listeners
+- **[Colores aleatorios](https://codepen.io/isa-pulsatilla/pen/mdPEMmZ)** — generador de paletas con setInterval y RGB aleatorio
 
 ---
 
