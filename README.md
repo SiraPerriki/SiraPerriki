@@ -19,7 +19,7 @@ Mi camino ha sido en parte autodidacta y a veces a trompicones, como el de mucha
 
 Tengo una querencia especial por construir herramientas que no existen porque las necesito yo — y aunque todos somos únicos pero no tanto, espero que haya más personas a las que, como a mí, les sirvan ❤️
 
-- **[Labbelia](https://siraperriki.github.io/labbelia/)** — Generador de etiquetas para journaling. HTML + CSS + JS puro, desplegado en GitHub Pages.
+- **[Labbelia](https://siraperriki.github.io/Labbelia/)** — Generador de etiquetas para journaling. HTML + CSS + JS puro, desplegado en GitHub Pages.
 - **[Ourita](https://siraperriki.github.io/Ourita/)** — Conversor de divisas con tipo de cambio en tiempo real. API abierta de ExchangeRate, desplegado en GitHub Pages.
 - **Nubbita** — Herramienta de paletas de color para ilustradoras, con simulación de daltonismo y análisis de contraste.
 - **Onironauta** — PWA de diario de sueños con seguimiento lunar y captura multimodal. En desarrollo.
