@@ -20,6 +20,7 @@ Mi camino ha sido en parte autodidacta y a veces a trompicones, como el de mucha
 Tengo una querencia especial por construir herramientas que no existen porque las necesito yo — y aunque todos somos únicos pero no tanto, espero que haya más personas a las que, como a mí, les sirvan ❤️
 
 - **[Labbelia](https://siraperriki.github.io/labbelia/)** — Generador de etiquetas para journaling. HTML + CSS + JS puro, desplegado en GitHub Pages.
+- **[Ourita](https://siraperriki.github.io/Ourita/)** — Conversor de divisas con tipo de cambio en tiempo real. API abierta de ExchangeRate, desplegado en GitHub Pages.
 - **Nubbita** — Herramienta de paletas de color para ilustradoras, con simulación de daltonismo y análisis de contraste.
 - **Onironauta** — PWA de diario de sueños con seguimiento lunar y captura multimodal. En desarrollo.
 
@@ -31,7 +32,15 @@ Tengo una querencia especial por construir herramientas que no existen porque la
 
 ---
 
-## 🎨 Experimentos en CodePen
+## 🎨 Diseño UX
+
+- **[Toxos e Froles — Prototipo interactivo](https://www.figma.com/proto/B3YzT9IM5B60HQZHNLANET/FlowerShop?t=S0w8nSYlECULDlVG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&node-id=180-0)** — App móvil de floristería. 26 pantallas, flujo de compra completo, identidad visual propia. Figma.
+- **[Toxos e Froles — Mockups](https://www.figma.com/design/messEY0lsC6RH1xzSsAZf8/ToxoseFrolesMockups?node-id=0-1)** — Sistema visual completo de la app.
+- **[Behance](https://www.behance.net/isapulsatilla)** — Portfolio de diseño con más proyectos UX: user personas, research, flujos de interacción.
+
+---
+
+## 🖥️ Experimentos en CodePen
 
 Dibujo vectorial artesanal y pequeños experimentos con HTML, CSS y JS puro.
 
