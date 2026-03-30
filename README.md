@@ -10,7 +10,7 @@ Mi camino ha sido en parte autodidacta y a veces a trompicones, como el de mucha
 
 **Frontend:** JavaScript · Vue · React · TypeScript · HTML · CSS  
 **Backend:** Node.js · Express · SQL  
-**Diseño:** Figma · SVG · UX (Google Certificate)  
+**Diseño:** Figma · Krita · SVG · UX (Google Certificate)  
 **Otros:** Git · Postman · Godot · APIs  
 
 ---
