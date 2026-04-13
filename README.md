@@ -49,7 +49,7 @@ Dibujo vectorial artesanal y pequeños experimentos con HTML, CSS y JS puro.
 
 ---
 
-## 🔍 Open to work
+## 🔍 Abierta a oportunidades laborales
 
 Estoy buscando oportunidades en frontend o roles técnicos donde pueda seguir aprendiendo. Me interesan especialmente equipos donde el diseño y el código convivan.
 
