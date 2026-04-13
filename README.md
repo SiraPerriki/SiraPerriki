@@ -1,12 +1,10 @@
 # Hola, soy Isa, SiraPerriki en las redes 👋
 
-Desarrolladora frontend con base fullstack y ojo de diseñadora. Disfruto construyendo cosas en la intersección entre código, color y narrativa.
-
-Mi camino ha sido en parte autodidacta y a veces a trompicones, como el de mucha gente que aprende mientras la vida avanza deprisa. Ahora estoy aquí, disfrutando de hacer esto.
+Desarrolladora frontend con base fullstack y ojo de diseñadora. disfruto haciendo cosas en la intersección entre el desarrollo web, el diseño y la narrativa 💌
 
 ---
 
-## 🛠️ Con lo que trabajo
+## 🛠️ Con qué trabajo
 
 **Frontend:** JavaScript · Vue · React · TypeScript · HTML · CSS  
 **Backend:** Node.js · Express · SQL  
