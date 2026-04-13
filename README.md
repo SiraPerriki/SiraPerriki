@@ -15,7 +15,7 @@ Desarrolladora frontend con base fullstack y ojo de diseñadora. disfruto hacien
 
 ## 🌱 Proyectos propios
 
-Tengo una querencia especial por construir herramientas que no existen porque las necesito yo — y aunque todos somos únicos pero no tanto, espero que haya más personas a las que, como a mí, les sirvan ❤️
+Tengo una querencia especial por hacer para mí herramientas que necesito — y aunque todos somos únicos pero no tanto, espero que haya más personas a las que, como a mí, les sirvan ❤️
 
 - **[Labbelia](https://siraperriki.github.io/Labbelia/)** — Generador de etiquetas para journaling. HTML + CSS + JS puro, desplegado en GitHub Pages.
 - **[Ourita](https://siraperriki.github.io/Ourita/)** — Conversor de divisas con tipo de cambio en tiempo real. API abierta de ExchangeRate, desplegado en GitHub Pages.
