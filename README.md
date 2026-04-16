@@ -1,6 +1,7 @@
 # Hola, soy Isa, SiraPerriki en las redes 👋
 
-Desarrolladora frontend con base fullstack y ojo de diseñadora. disfruto haciendo cosas en la intersección entre el desarrollo web, el diseño y la narrativa 
+Desarrolladora frontend con base fullstack y ojo de diseñadora. disfruto haciendo cosas en la intersección entre el desarrollo web, el diseño y la narrativa.
+
 Portfolio 💌 https://siraperriki.carrd.co
 
 ---
